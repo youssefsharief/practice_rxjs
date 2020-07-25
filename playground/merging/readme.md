@@ -1,0 +1,1 @@
+All streams are combined to one final simple stream (not an array like combining). We should have all streams emit the same type

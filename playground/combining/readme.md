@@ -1,0 +1,2 @@
+streams do not mix and mangle with each other. No, they are sepereated by being in an array or somthing so that is apparent that one value is from 
+one stram while the other is from another stream. We do not need to have streams have the same type
