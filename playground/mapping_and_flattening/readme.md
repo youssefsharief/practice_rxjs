@@ -1,0 +1,2 @@
+Instead of using both map and concatAll for flattening an observable of observables, you can use any of these operators here.
+Group one returns an observable of values while group 2 returns an observable of arrays
